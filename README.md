@@ -1,5 +1,5 @@
 
-[![newbackground.png](https://i.postimg.cc/65h2YSmG/newbackground.png)](https://postimg.cc/nCChLdZH)
+[![newbackground.png](https://static.wixstatic.com/media/6ae6d3_881b84e5d66344fe90e8217d0736fe6c~mv2.gif/v1/fill/w_248,h_90,q_90/6ae6d3_881b84e5d66344fe90e8217d0736fe6c~mv2.gif)](https://postimg.cc/nCChLdZH)
 <h1 align="center">Hi 👋, I'm Sosane !</h1>
 <h3 align="center">A passionate data scientist & programmer from Canada ! 🧠</h3>
 <img align="right" alt="Coding" width="400" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif">
