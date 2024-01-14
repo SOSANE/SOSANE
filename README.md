@@ -2,7 +2,7 @@
 [![newbackground.png](https://i.postimg.cc/65h2YSmG/newbackground.png)](https://postimg.cc/nCChLdZH)
 <h1 align="center">Hi 👋, I'm Sosane !</h1>
 <h3 align="center">A passionate data scientist & software engineer from Canada ! 🧠</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif">
 
 - 🔭 I’m currently working on **a Time Series Analysis Project 👩‍💻**
 
