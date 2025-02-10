@@ -1,8 +1,8 @@
 
 [![newbackground.png](https://static.wixstatic.com/media/6ae6d3_881b84e5d66344fe90e8217d0736fe6c~mv2.gif/v1/fill/w_248,h_90,q_90/6ae6d3_881b84e5d66344fe90e8217d0736fe6c~mv2.gif)](https://www.linkedin.com/in/sosane-mahamoud-houssein-544352297/)
-<h1 align="center">Hi 👋, I'm Sosane !</h1>
+<h1 align="center">Sosane Mahamoud Houssein</h1>
 <h3 align="center">Student, data scientist & programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif">
+
 
 - 🌱 I’m currently learning about **machine learning**
 
