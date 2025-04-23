@@ -3,11 +3,6 @@
 <h1 align="center">Sosane Mahamoud Houssein</h1>
 <h3 align="center">Student, data scientist & programmer</h3>
 
-
-- 🌱 I’m currently learning about **machine learning**
-
-- 📫 How to reach me **sosanemh.pro@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sosane-mahamoud-houssein-544352297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sosane-mahamoud-houssein-544352297" height="30" width="40" /></a>
